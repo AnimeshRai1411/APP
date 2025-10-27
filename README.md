@@ -302,12 +302,6 @@ npm run build
 - **Automated report generation** and email delivery
 - **Integration with security tools** (Nessus, OpenVAS, etc.)
 
-## 👥 Team
-
-- **Abhinav Soni** - Backend Developer
-- **Prajukta Das** - AI/ML Engineer
-- **Animesh Rai** - Full-Stack Developer
-- **Samidha Lade** - Security Analyst
 
 ## 📄 License
 
